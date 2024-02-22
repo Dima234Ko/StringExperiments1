@@ -24,6 +24,7 @@ public class Main {
                 number = Integer.parseInt(matcher.group())+number;
                 }
             System.out.println(number);
+            System.out.println("2222");
 
         }
     }
