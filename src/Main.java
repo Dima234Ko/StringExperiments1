@@ -1,5 +1,3 @@
-import First.First;
-
 import java.io.UnsupportedEncodingException;
 import java.nio.charset.StandardCharsets;
 import java.util.Scanner;
@@ -11,8 +9,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-        First first = new First();
-        first.FIRST();
 
 
         while (true) {
@@ -29,7 +25,6 @@ public class Main {
                 }
             System.out.println(number);
             System.out.println("2222");
-            System.out.println();
 
         }
     }
